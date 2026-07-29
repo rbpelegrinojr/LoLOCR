@@ -1,0 +1,43 @@
+{
+  "capture": {
+    "method": "ndi",
+    "ndi": {
+      "source_name": "OBS (Main):Main Output",
+      "enabled": true
+    },
+    "window": {
+      "window_title": "League of Legends",
+      "enabled": false
+    },
+    "screen": {
+      "monitor_index": 0,
+      "enabled": false
+    }
+  },
+  "ocr": {
+    "enabled": true,
+    "debug": false,
+    "save_crops": true
+  },
+  "output": {
+    "base_dir": "output",
+    "update_interval_ms": 500,
+    "generate_json": true,
+    "generate_txt": true,
+    "generate_debug": true
+  },
+  "scoring": {
+    "enabled": true,
+    "scoreboard_crop_region": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/lolecr.log",
+    "console": true
+  }
+}

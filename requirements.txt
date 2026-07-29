@@ -1,0 +1,25 @@
+# LoLOCR Requirements
+# Core dependencies (required)
+# None - uses only Python standard library for core functionality
+
+# Optional dependencies for specific features:
+
+# For NDI capture:
+# pyndi>=1.5.0  # Python NDI bindings
+
+# For window/screen capture:
+# pyautogui>=0.9.53
+# pygetwindow>=0.0.9
+# pillow>=9.0.0
+# opencv-python>=4.5.0
+
+# For OCR processing (choose one):
+# easyocr>=1.6.0  # Recommended - good balance of speed and accuracy
+# paddleocr>=2.7.0  # Fast and accurate
+# pytesseract>=0.3.10  # Requires tesseract-ocr system package
+
+# For development:
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
+# black>=22.0.0
+# flake8>=4.0.0
