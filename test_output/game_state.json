@@ -1,0 +1,140 @@
+{
+  "gametime": "10:00",
+  "teams": {
+    "left": {
+      "name": "Test Team Left",
+      "gold": 0,
+      "kills": 0,
+      "towers": 0,
+      "dragons": 0,
+      "heralds": 0,
+      "barons": 0
+    },
+    "right": {
+      "name": "Test Team Right",
+      "gold": 0,
+      "kills": 0,
+      "towers": 0,
+      "dragons": 0,
+      "heralds": 0,
+      "barons": 0
+    }
+  },
+  "players": {
+    "left": [
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      }
+    ],
+    "right": [
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      },
+      {
+        "name": "",
+        "champion": "",
+        "level": 0,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "cs": 0,
+        "gold": 0
+      }
+    ]
+  },
+  "objectives": {
+    "dragon_timer": 0,
+    "baron_timer": 0,
+    "herald_timer": 0,
+    "elder_timer": 0
+  },
+  "debug": {
+    "latest_capture_path": "",
+    "latest_scoreboard_crop_path": "",
+    "latest_ocr_path": ""
+  }
+}
